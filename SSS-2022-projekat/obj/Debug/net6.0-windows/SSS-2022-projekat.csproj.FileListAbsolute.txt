@@ -1,0 +1,278 @@
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\Barbara\Desktop\SSS-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Properties.Resources.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Properties.Resources.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdmin.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdresa.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditKlijent.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditPlatnaKartica.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrener.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrening.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Crud8.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdminWindow.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdresaWindow.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllKlijentWindow.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTrenerWindow.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowPlatnaKarticaWindow.resources
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\Barbara\Source\Repos\sss-2022-projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdmin.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdresa.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditKlijent.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditOcena.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditPlatnaKartica.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrener.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrening.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdminWindow.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdresaWindow.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllKlijentWindow.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTrenerWindow.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTreningWindow.resources
+C:\Users\marko\Desktop\sss\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowPlatnaKarticaWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Properties.Resources.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdmin.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdresa.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditKlijent.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditOcena.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditPlatnaKartica.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrener.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrening.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Login.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Register.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdminWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdresaWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllKlijentWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTrenerWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTreningWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowPlatnaKarticaWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(4)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Properties.Resources.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdmin.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdresa.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditKlijent.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditOcena.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditPlatnaKartica.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrener.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrening.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Login.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Register.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdminWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdresaWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllKlijentWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTrenerWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTreningWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowPlatnaKarticaWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdmin.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdresa.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditKlijent.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditOcena.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditPlatnaKartica.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrener.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrening.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Login.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Register.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdminWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdresaWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllKlijentWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTrenerWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTreningWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowPlatnaKarticaWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.exe
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.deps.json
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.runtimeconfig.json
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\CircularProgressBar.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\WinFormAnimation.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.AssemblyReference.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Form1.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Properties.Resources.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdmin.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditAdresa.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditKlijent.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditOcena.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditPlatnaKartica.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrener.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditTrening.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Login.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.Register.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdminWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllAdresaWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllKlijentWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTrenerWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowAllTreningWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.ShowPlatnaKarticaWindow.resources
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.GenerateResource.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfoInputs.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.AssemblyInfo.cs
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CoreCompileInputs.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.csproj.CopyComplete
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\refint\SSS-2022-projekat.dll
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.pdb
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS-2022-projekat.genruntimeconfig.cache
+C:\Users\Nigga\Downloads\sss-2022-projekat-master(5)\sss-2022-projekat-master\SSS-2022-projekat\obj\Debug\net6.0-windows\ref\SSS-2022-projekat.dll
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.ShowAllOcenaWindow.resources
+C:\Users\marko\Desktop\git\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.MakeAnAppointment.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.MakeAnAppointment.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.ShowAllOcenaWindow.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.ShowAllOcena.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.StartTrening.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.AddEditZarada.resources
+C:\Users\Korisnik\Desktop\Specifikacije projekat\SSS-2022-projekat\obj\Debug\net6.0-windows\SSS_2022_projekat.Windows.ShowAllZaradaWindow.resources

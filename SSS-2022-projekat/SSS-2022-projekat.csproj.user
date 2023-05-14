@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditAdresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditKlijent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditOcena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditPlatnaKartica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditTrener.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditTrening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\AddEditZarada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\MakeAnAppointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllAdresaWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllOcena.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllOcenaWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllZaradaWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowPlatnaKarticaWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllTrenerWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllAdminWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllKlijentWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\ShowAllTreningWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Windows\StartTrening.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
